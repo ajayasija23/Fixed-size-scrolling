@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Status Report</string>
+    <string name="status_report">Status Report</string>
+    <string name="project_name">Project Name</string>
+    <string name="git_commit">Git Commit</string>
+    <string name="task">Enter task</string>
+    <string name="tasks">Tasks</string>
+    <string name="add_more">Add More</string>
+    <string name="submit">Submit</string>
+</resources>
